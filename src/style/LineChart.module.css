@@ -1,0 +1,17 @@
+.btn:hover {
+    color: teal;
+    background-color: white;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: teal;
+    position: relative;
+    top: 5%;
+    left: 23%;
+}

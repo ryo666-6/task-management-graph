@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+これから加える機能
+１ アプリの1番上に今日の日付を載せる（〇〇年〇月〇日〇時〇分）
+２ react-chartを用いて目標達成率を記述
+３ 結果をSNSでシェア
+４ 24時になると内容がリセットされる

@@ -1,0 +1,12 @@
+button {
+  position: relative;
+  display: inline-block;
+  background-color: linear-gradient(135deg, #DD5E89, #F7BB97);
+  border-radius: 30px; 
+  width: 200px; 
+  height: 60px; 
+  line-height: 60px; 
+  text-decoration: none; 
+  overflow: hidden; 
+  cursor: pointer; 
+}
